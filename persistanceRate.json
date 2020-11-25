@@ -1,0 +1,2863 @@
+[
+    {
+        "cohort": 2000,
+        "URM":[
+            {
+                "year": 2000,
+                "CS":82,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2001,
+                "CS":53,
+                "Non-CS": 15,
+                "Graduated":1,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2002,
+                "CS":31,
+                "Non-CS": 16,
+                "Graduated":5,
+                "Stopped Out": 30
+            },
+            {
+                "year": 2003,
+                "CS":20,
+                "Non-CS": 16,
+                "Graduated":14,
+                "Stopped Out": 32
+            },
+            {
+                "year": 2004,
+                "CS":13,
+                "Non-CS": 12,
+                "Graduated":23,
+                "Stopped Out": 34
+            },
+            {
+                "year": 2005,
+                "CS":10,
+                "Non-CS": 9,
+                "Graduated":29,
+                "Stopped Out": 34
+            },
+            {
+                "year": 2006,
+                "CS":6,
+                "Non-CS": 5,
+                "Graduated":33,
+                "Stopped Out": 38
+            },
+            {
+                "year": 2007,
+                "CS":4,
+                "Non-CS": 2,
+                "Graduated":34,
+                "Stopped Out": 42
+            },
+            {
+                "year": 2008,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":37,
+                "Stopped Out": 43
+            },
+            {
+                "year": 2009,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":37,
+                "Stopped Out": 45
+            },
+            {
+                "year": 2010,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":37,
+                "Stopped Out": 45
+            },
+            {
+                "year": 2011,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":37,
+                "Stopped Out": 43
+            },
+            {
+                "year": 2012,
+                "CS":1,
+                "Non-CS": 2,
+                "Graduated":37,
+                "Stopped Out": 42
+            },
+            {
+                "year": 2013,
+                "CS":0,
+                "Non-CS": 3,
+                "Graduated":37,
+                "Stopped Out": 42
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":37,
+                "Stopped Out": 43
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":37,
+                "Stopped Out": 44
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":38,
+                "Stopped Out": 44
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":38,
+                "Stopped Out": 43
+            },            {
+                "year": 2018,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":39,
+                "Stopped Out": 43
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2000,
+                "CS":209,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2001,
+                "CS":115,
+                "Non-CS": 24,
+                "Graduated":4,
+                "Stopped Out": 66
+            },
+            {
+                "year": 2002,
+                "CS":71,
+                "Non-CS": 24,
+                "Graduated":21,
+                "Stopped Out": 93
+            },
+            {
+                "year": 2003,
+                "CS":33,
+                "Non-CS": 22,
+                "Graduated":54,
+                "Stopped Out": 100
+            },
+            {
+                "year": 2004,
+                "CS":24,
+                "Non-CS": 16,
+                "Graduated":79,
+                "Stopped Out": 90
+            },
+            {
+                "year": 2005,
+                "CS":18,
+                "Non-CS": 12,
+                "Graduated":91,
+                "Stopped Out": 88
+            },
+            {
+                "year": 2006,
+                "CS":11,
+                "Non-CS": 6,
+                "Graduated":102,
+                "Stopped Out": 90
+            },
+            {
+                "year": 2007,
+                "CS":9,
+                "Non-CS": 4,
+                "Graduated":107,
+                "Stopped Out": 89
+            },
+            {
+                "year": 2008,
+                "CS":7,
+                "Non-CS": 2,
+                "Graduated":111,
+                "Stopped Out": 89
+            },
+            {
+                "year": 2009,
+                "CS":7,
+                "Non-CS": 2,
+                "Graduated":112,
+                "Stopped Out": 88
+            },
+            {
+                "year": 2010,
+                "CS":6,
+                "Non-CS": 2,
+                "Graduated":114,
+                "Stopped Out": 87
+            },
+            {
+                "year": 2011,
+                "CS":4,
+                "Non-CS": 3,
+                "Graduated":114,
+                "Stopped Out": 88
+            },
+            {
+                "year": 2012,
+                "CS":2,
+                "Non-CS": 3,
+                "Graduated":114,
+                "Stopped Out": 90
+            },
+            {
+                "year": 2013,
+                "CS":1,
+                "Non-CS": 3,
+                "Graduated":114,
+                "Stopped Out": 91
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 3,
+                "Graduated":115,
+                "Stopped Out": 91
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":116,
+                "Stopped Out": 91
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":117,
+                "Stopped Out": 92
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":117,
+                "Stopped Out": 91
+            }
+        ]
+    },
+    {
+        "cohort": 2001,
+        "URM":[
+            {
+                "year": 2001,
+                "CS":76,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2002,
+                "CS":44,
+                "Non-CS": 13,
+                "Graduated":0,
+                "Stopped Out": 19
+            },
+            {
+                "year": 2003,
+                "CS":22,
+                "Non-CS": 17,
+                "Graduated":4,
+                "Stopped Out": 33
+            },
+            {
+                "year": 2004,
+                "CS":13,
+                "Non-CS": 15,
+                "Graduated":13,
+                "Stopped Out": 35
+            },
+            {
+                "year": 2005,
+                "CS":8,
+                "Non-CS": 12,
+                "Graduated":25,
+                "Stopped Out": 31
+            },
+            {
+                "year": 2006,
+                "CS":3,
+                "Non-CS": 7,
+                "Graduated":28,
+                "Stopped Out": 38
+            },
+            {
+                "year": 2007,
+                "CS":2,
+                "Non-CS": 1,
+                "Graduated":30,
+                "Stopped Out": 43
+            },
+            {
+                "year": 2008,
+                "CS":2,
+                "Non-CS": 1,
+                "Graduated":32,
+                "Stopped Out": 41
+            },
+            {
+                "year": 2009,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":33,
+                "Stopped Out": 43
+            },
+            {
+                "year": 2010,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":33,
+                "Stopped Out": 42
+            },
+            {
+                "year": 2011,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":33,
+                "Stopped Out": 42
+            },
+            {
+                "year": 2012,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":33,
+                "Stopped Out": 43
+            },
+            {
+                "year": 2013,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":34,
+                "Stopped Out": 41
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":34,
+                "Stopped Out": 41
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":35,
+                "Stopped Out": 40
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":37,
+                "Stopped Out": 44
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":36,
+                "Stopped Out": 40
+            },
+            {
+                "year": 2018,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":36,
+                "Stopped Out": 39
+            },            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":37,
+                "Stopped Out": 39
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2001,
+                "CS":197,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2002,
+                "CS":116,
+                "Non-CS": 23,
+                "Graduated":5,
+                "Stopped Out": 53
+            },
+            {
+                "year": 2003,
+                "CS":66,
+                "Non-CS": 31,
+                "Graduated":22,
+                "Stopped Out": 78
+            },
+            {
+                "year": 2004,
+                "CS":34,
+                "Non-CS": 33,
+                "Graduated":45,
+                "Stopped Out": 85
+            },
+            {
+                "year": 2005,
+                "CS":23,
+                "Non-CS": 18,
+                "Graduated":70,
+                "Stopped Out": 86
+            },
+            {
+                "year": 2006,
+                "CS":17,
+                "Non-CS": 9,
+                "Graduated":82,
+                "Stopped Out": 89
+            },
+            {
+                "year": 2007,
+                "CS":10,
+                "Non-CS": 2,
+                "Graduated":90,
+                "Stopped Out": 95
+            },
+            {
+                "year": 2008,
+                "CS":3,
+                "Non-CS": 1,
+                "Graduated":94,
+                "Stopped Out": 99
+            },
+            {
+                "year": 2009,
+                "CS":3,
+                "Non-CS": 3,
+                "Graduated":95,
+                "Stopped Out": 96
+            },
+            {
+                "year": 2010,
+                "CS":3,
+                "Non-CS": 3,
+                "Graduated":95,
+                "Stopped Out": 96
+            },
+            {
+                "year": 2011,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":98,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2012,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":98,
+                "Stopped Out": 98
+            },
+            {
+                "year": 2013,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":98,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":99,
+                "Stopped Out": 98
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":99,
+                "Stopped Out": 98
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":99,
+                "Stopped Out": 98
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":99,
+                "Stopped Out": 98
+            },
+            {
+                "year": 2018,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":99,
+                "Stopped Out": 98
+            },
+            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":99,
+                "Stopped Out": 97
+            }
+        ]
+    },
+    {
+        "cohort": 2002,
+        "URM":[
+            {
+                "year": 2002,
+                "CS":56,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2003,
+                "CS":25,
+                "Non-CS": 14,
+                "Graduated":0,
+                "Stopped Out": 17
+            },
+            {
+                "year": 2004,
+                "CS":16,
+                "Non-CS": 13,
+                "Graduated":3,
+                "Stopped Out": 24
+            },
+            {
+                "year": 2005,
+                "CS":9,
+                "Non-CS": 8,
+                "Graduated":10,
+                "Stopped Out": 29
+            },
+            {
+                "year": 2006,
+                "CS":4,
+                "Non-CS": 6,
+                "Graduated":15,
+                "Stopped Out": 31
+            },
+            {
+                "year": 2007,
+                "CS":1,
+                "Non-CS": 2,
+                "Graduated":22,
+                "Stopped Out": 31
+            },
+            {
+                "year": 2008,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":22,
+                "Stopped Out": 32
+            },
+            {
+                "year": 2009,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":23,
+                "Stopped Out": 31
+            },
+            {
+                "year": 2010,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":25,
+                "Stopped Out": 30
+            },
+            {
+                "year": 2011,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":25,
+                "Stopped Out": 29
+            },
+            {
+                "year": 2012,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":25,
+                "Stopped Out": 30
+            },
+            {
+                "year": 2013,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":25,
+                "Stopped Out": 31
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2002,
+                "CS":194,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2003,
+                "CS":100,
+                "Non-CS": 31,
+                "Graduated":5,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2004,
+                "CS":55,
+                "Non-CS": 29,
+                "Graduated":28,
+                "Stopped Out": 82
+            },
+            {
+                "year": 2005,
+                "CS":39,
+                "Non-CS": 26,
+                "Graduated":46,
+                "Stopped Out": 83
+            },
+            {
+                "year": 2006,
+                "CS":25,
+                "Non-CS": 15,
+                "Graduated":62,
+                "Stopped Out": 92
+            },
+            {
+                "year": 2007,
+                "CS":17,
+                "Non-CS": 6,
+                "Graduated":74,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2008,
+                "CS":15,
+                "Non-CS": 8,
+                "Graduated":76,
+                "Stopped Out": 95
+            },
+            {
+                "year": 2009,
+                "CS":8,
+                "Non-CS": 5,
+                "Graduated":85,
+                "Stopped Out": 96
+            },
+            {
+                "year": 2010,
+                "CS":5,
+                "Non-CS": 4,
+                "Graduated":90,
+                "Stopped Out": 95
+            },
+            {
+                "year": 2011,
+                "CS":5,
+                "Non-CS": 4,
+                "Graduated":91,
+                "Stopped Out": 94
+            },
+            {
+                "year": 2012,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":93,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2013,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":96,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":96,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":96,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2016,
+                "CS":2,
+                "Non-CS": 1,
+                "Graduated":95,
+                "Stopped Out": 96
+            },
+            {
+                "year": 2017,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":96,
+                "Stopped Out": 96
+            },
+            {
+                "year": 2018,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":96,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":97,
+                "Stopped Out": 97
+            }
+        ]
+    },
+    {
+        "cohort": 2003,
+        "URM":[
+            {
+                "year": 2003,
+                "CS":33,
+                "Non-CS": 0,
+                "Graduated":1,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2004,
+                "CS":21,
+                "Non-CS": 6,
+                "Graduated":1,
+                "Stopped Out": 6
+            },
+            {
+                "year": 2005,
+                "CS":14,
+                "Non-CS": 7,
+                "Graduated":1,
+                "Stopped Out": 12
+            },
+            {
+                "year": 2006,
+                "CS":10,
+                "Non-CS": 5,
+                "Graduated":6,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2007,
+                "CS":6,
+                "Non-CS": 3,
+                "Graduated":10,
+                "Stopped Out": 15
+            },
+            {
+                "year": 2008,
+                "CS":4,
+                "Non-CS": 2,
+                "Graduated":12,
+                "Stopped Out": 16
+            },
+            {
+                "year": 2009,
+                "CS":6,
+                "Non-CS": 5,
+                "Graduated":33,
+                "Stopped Out": 38
+            },
+            {
+                "year": 2010,
+                "CS":2,
+                "Non-CS": 1,
+                "Graduated":13,
+                "Stopped Out": 18
+            },
+            {
+                "year": 2011,
+                "CS":3,
+                "Non-CS": 13,
+                "Graduated":13,
+                "Stopped Out": 15
+            },
+            {
+                "year": 2012,
+                "CS":1,
+                "Non-CS": 2,
+                "Graduated":14,
+                "Stopped Out": 17
+            },
+            {
+                "year": 2013,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":14,
+                "Stopped Out": 19
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":14,
+                "Stopped Out": 19
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":15,
+                "Stopped Out": 19
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":15,
+                "Stopped Out": 19
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":15,
+                "Stopped Out": 18
+            },
+            {
+                "year": 2018,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":15,
+                "Stopped Out": 19
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2003,
+                "CS":176,
+                "Non-CS": 0,
+                "Graduated":1,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2004,
+                "CS":97,
+                "Non-CS": 27,
+                "Graduated":3,
+                "Stopped Out": 49
+            },
+            {
+                "year": 2005,
+                "CS":59,
+                "Non-CS": 29,
+                "Graduated":18,
+                "Stopped Out": 70
+            },
+            {
+                "year": 2006,
+                "CS":39,
+                "Non-CS": 19,
+                "Graduated":40,
+                "Stopped Out": 78
+            },
+            {
+                "year": 2007,
+                "CS":25,
+                "Non-CS": 15,
+                "Graduated":54,
+                "Stopped Out": 82
+            },
+            {
+                "year": 2008,
+                "CS":12,
+                "Non-CS": 9,
+                "Graduated":69,
+                "Stopped Out": 86
+            },
+            {
+                "year": 2009,
+                "CS":8,
+                "Non-CS": 8,
+                "Graduated":77,
+                "Stopped Out": 83
+            },
+            {
+                "year": 2010,
+                "CS":5,
+                "Non-CS": 5,
+                "Graduated":81,
+                "Stopped Out": 85
+            },
+            {
+                "year": 2011,
+                "CS":3,
+                "Non-CS": 5,
+                "Graduated":84,
+                "Stopped Out": 84
+            },
+            {
+                "year": 2012,
+                "CS":3,
+                "Non-CS": 2,
+                "Graduated":87,
+                "Stopped Out": 84
+            },
+            {
+                "year": 2013,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":88,
+                "Stopped Out": 86
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":90,
+                "Stopped Out": 85
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":90,
+                "Stopped Out": 85
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":90,
+                "Stopped Out": 85
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":91,
+                "Stopped Out": 85
+            }
+        ]
+    },
+    {
+        "cohort": 2004,
+        "URM":[
+            {
+                "year": 2004,
+                "CS":18,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2005,
+                "CS":11,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 7
+            },
+            {
+                "year": 2006,
+                "CS":8,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 10
+            },
+            {
+                "year": 2007,
+                "CS":6,
+                "Non-CS": 0,
+                "Graduated":2,
+                "Stopped Out": 10
+            },
+            {
+                "year": 2008,
+                "CS":4,
+                "Non-CS": 0,
+                "Graduated":5,
+                "Stopped Out": 9
+            },
+            {
+                "year": 2009,
+                "CS":3,
+                "Non-CS": 0,
+                "Graduated":6,
+                "Stopped Out": 9
+            },
+            {
+                "year": 2010,
+                "CS":2,
+                "Non-CS": 0,
+                "Graduated":7,
+                "Stopped Out": 9
+            },
+            {
+                "year": 2011,
+                "CS":2,
+                "Non-CS": 0,
+                "Graduated":7,
+                "Stopped Out": 9
+            },
+            {
+                "year": 2012,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":8,
+                "Stopped Out": 10
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2004,
+                "CS":102,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2005,
+                "CS":63,
+                "Non-CS": 10,
+                "Graduated":2,
+                "Stopped Out": 27
+            },
+            {
+                "year": 2006,
+                "CS":44,
+                "Non-CS": 7,
+                "Graduated":6,
+                "Stopped Out": 45
+            },
+            {
+                "year": 2007,
+                "CS":34,
+                "Non-CS": 5,
+                "Graduated":15,
+                "Stopped Out": 48
+            },
+            {
+                "year": 2008,
+                "CS":22,
+                "Non-CS": 3,
+                "Graduated":26,
+                "Stopped Out": 51
+            },
+            {
+                "year": 2009,
+                "CS":12,
+                "Non-CS": 4,
+                "Graduated":32,
+                "Stopped Out": 54
+            },
+            {
+                "year": 2010,
+                "CS":6,
+                "Non-CS": 1,
+                "Graduated":37,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2011,
+                "CS":5,
+                "Non-CS": 2,
+                "Graduated":37,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2012,
+                "CS":5,
+                "Non-CS": 3,
+                "Graduated":37,
+                "Stopped Out": 57
+            },
+            {
+                "year": 2013,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":38,
+                "Stopped Out": 60
+            },
+            {
+                "year": 2014,
+                "CS":1,
+                "Non-CS": 3,
+                "Graduated":39,
+                "Stopped Out": 59
+            },
+            {
+                "year": 2015,
+                "CS":2,
+                "Non-CS": 3,
+                "Graduated":40,
+                "Stopped Out": 57
+            },
+            {
+                "year": 2016,
+                "CS":2,
+                "Non-CS": 0,
+                "Graduated":42,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2017,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":43,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2018,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":43,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":43,
+                "Stopped Out": 59
+            }
+        ]
+    },
+    {
+        "cohort": 2005,
+        "URM":[
+            {
+                "year": 2005,
+                "CS":22,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2006,
+                "CS":15,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 7
+            },
+            {
+                "year": 2007,
+                "CS":7,
+                "Non-CS": 0,
+                "Graduated":3,
+                "Stopped Out": 12
+            },
+            {
+                "year": 2008,
+                "CS":6,
+                "Non-CS": 1,
+                "Graduated":3,
+                "Stopped Out": 12
+            },
+            {
+                "year": 2009,
+                "CS":4,
+                "Non-CS":0,
+                "Graduated":6,
+                "Stopped Out": 12
+            },
+            {
+                "year": 2010,
+                "CS":3,
+                "Non-CS": 0,
+                "Graduated":6,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2011,
+                "CS":2,
+                "Non-CS": 0,
+                "Graduated":8,
+                "Stopped Out": 12
+            },
+            {
+                "year": 2012,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":8,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2013,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":37,
+                "Stopped Out": 43
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":9,
+                "Stopped Out": 13
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2005,
+                "CS":130,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2006,
+                "CS":101,
+                "Non-CS": 6,
+                "Graduated":1,
+                "Stopped Out": 22
+            },
+            {
+                "year": 2007,
+                "CS":65,
+                "Non-CS": 9,
+                "Graduated":5,
+                "Stopped Out": 51
+            },
+            {
+                "year": 2008,
+                "CS":37,
+                "Non-CS": 18,
+                "Graduated":15,
+                "Stopped Out": 60
+            },
+            {
+                "year": 2009,
+                "CS":25,
+                "Non-CS":17,
+                "Graduated":27,
+                "Stopped Out": 61
+            },
+            {
+                "year": 2010,
+                "CS":14,
+                "Non-CS": 11,
+                "Graduated":44,
+                "Stopped Out": 61
+            },
+            {
+                "year": 2011,
+                "CS":6,
+                "Non-CS": 1,
+                "Graduated":59,
+                "Stopped Out": 64
+            },
+            {
+                "year": 2012,
+                "CS":4,
+                "Non-CS": 1,
+                "Graduated":61,
+                "Stopped Out": 64
+            },
+            {
+                "year": 2013,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":63,
+                "Stopped Out": 63
+            },
+            {
+                "year": 2014,
+                "CS":1,
+                "Non-CS": 2,
+                "Graduated":63,
+                "Stopped Out": 64
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":63,
+                "Stopped Out": 65
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":63,
+                "Stopped Out": 65
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":64,
+                "Stopped Out": 66
+            },
+            {
+                "year": 2018,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":64,
+                "Stopped Out": 65
+            },
+            {
+                "year": 2019,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":64,
+                "Stopped Out": 64
+            }
+        ]
+    },
+    {
+        "cohort": 2006,
+        "URM":[
+            {
+                "year": 2006,
+                "CS":27,
+                "Non-CS": 0,
+                "Graduated":1,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2007,
+                "CS":24,
+                "Non-CS": 0,
+                "Graduated":1,
+                "Stopped Out": 3
+            },
+            {
+                "year": 2008,
+                "CS":31,
+                "Non-CS": 16,
+                "Graduated":5,
+                "Stopped Out": 30
+            },
+            {
+                "year": 2009,
+                "CS":18,
+                "Non-CS": 2,
+                "Graduated":2,
+                "Stopped Out": 6
+            },
+            {
+                "year": 2010,
+                "CS":11,
+                "Non-CS": 5,
+                "Graduated":4,
+                "Stopped Out": 8
+            },
+            {
+                "year": 2011,
+                "CS":9,
+                "Non-CS":6,
+                "Graduated":9,
+                "Stopped Out": 9
+            },
+            {
+                "year": 2012,
+                "CS":2,
+                "Non-CS": 3,
+                "Graduated":12,
+                "Stopped Out": 11
+            },
+            {
+                "year": 2013,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":14,
+                "Stopped Out": 12
+            },
+            {
+                "year": 2014,
+                "CS":1,
+                "Non-CS": 2,
+                "Graduated":15,
+                "Stopped Out": 10
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":15,
+                "Stopped Out": 12
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2006,
+                "CS":101,
+                "Non-CS": 0,
+                "Graduated":1,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2007,
+                "CS":68,
+                "Non-CS": 4,
+                "Graduated":2,
+                "Stopped Out": 27
+            },
+            {
+                "year": 2008,
+                "CS":40,
+                "Non-CS": 13,
+                "Graduated":7,
+                "Stopped Out": 41
+            },
+            {
+                "year": 2009,
+                "CS":16,
+                "Non-CS": 15,
+                "Graduated":18,
+                "Stopped Out": 52
+            },
+            {
+                "year": 2010,
+                "CS":9,
+                "Non-CS": 11,
+                "Graduated":26,
+                "Stopped Out": 55
+            },
+            {
+                "year": 2011,
+                "CS":7,
+                "Non-CS":3,
+                "Graduated":33,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2012,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":37,
+                "Stopped Out": 63
+            },
+            {
+                "year": 2013,
+                "CS":3,
+                "Non-CS": 0,
+                "Graduated":37,
+                "Stopped Out": 61
+            },
+            {
+                "year": 2014,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":37,
+                "Stopped Out": 62
+            },
+            {
+                "year": 2015,
+                "CS":2,
+                "Non-CS": 4,
+                "Graduated":37,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":40,
+                "Stopped Out": 59
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":40,
+                "Stopped Out": 59
+            },
+            {
+                "year": 2018,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":42,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":42,
+                "Stopped Out": 59
+            }
+        ]
+    },
+    {
+        "cohort": 2007,
+        "URM":[
+            {
+                "year": 2007,
+                "CS":17,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2008,
+                "CS":15,
+                "Non-CS": 1,
+                "Graduated":0,
+                "Stopped Out": 1
+            },
+            {
+                "year": 2009,
+                "CS":9,
+                "Non-CS": 4,
+                "Graduated":2,
+                "Stopped Out": 2
+            },
+            {
+                "year": 2010,
+                "CS":3,
+                "Non-CS": 8,
+                "Graduated":4,
+                "Stopped Out": 2
+            },
+            {
+                "year": 2011,
+                "CS":2,
+                "Non-CS": 4,
+                "Graduated":9,
+                "Stopped Out": 2
+            },
+            {
+                "year": 2012,
+                "CS":1,
+                "Non-CS": 3,
+                "Graduated":10,
+                "Stopped Out": 3
+            },
+            {
+                "year": 2013,
+                "CS":0,
+                "Non-CS": 3,
+                "Graduated":11,
+                "Stopped Out": 3
+            },
+            {
+                "year": 2014,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":12,
+                "Stopped Out": 4
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":12,
+                "Stopped Out": 4
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":13,
+                "Stopped Out": 4
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":13,
+                "Stopped Out": 3
+            },
+            {
+                "year": 2018,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":13,
+                "Stopped Out": 4
+            },
+            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":13,
+                "Stopped Out": 4
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2007,
+                "CS":118,
+                "Non-CS": 0,
+                "Graduated":1,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2008,
+                "CS":71,
+                "Non-CS": 11,
+                "Graduated":1,
+                "Stopped Out": 36
+            },
+            {
+                "year": 2009,
+                "CS":44,
+                "Non-CS": 20,
+                "Graduated":12,
+                "Stopped Out": 43
+            },
+            {
+                "year": 2010,
+                "CS":33,
+                "Non-CS": 17,
+                "Graduated":20,
+                "Stopped Out": 49
+            },
+            {
+                "year": 2011,
+                "CS":16,
+                "Non-CS": 14,
+                "Graduated":34,
+                "Stopped Out": 55
+            },
+            {
+                "year": 2012,
+                "CS":7,
+                "Non-CS": 11,
+                "Graduated":42,
+                "Stopped Out": 59
+            },
+            {
+                "year": 2013,
+                "CS":4,
+                "Non-CS": 1,
+                "Graduated":52,
+                "Stopped Out": 62
+            },
+            {
+                "year": 2014,
+                "CS":2,
+                "Non-CS": 1,
+                "Graduated":54,
+                "Stopped Out": 62
+            },
+            {
+                "year": 2015,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":54,
+                "Stopped Out": 61
+            },
+            {
+                "year": 2016,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":55,
+                "Stopped Out": 60
+            },
+            {
+                "year": 2017,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":56,
+                "Stopped Out": 62
+            },
+            {
+                "year": 2018,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":56,
+                "Stopped Out": 59
+            },
+            {
+                "year": 2019,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":57,
+                "Stopped Out": 60
+            }
+        ]
+    },
+    {
+        "cohort": 2008,
+        "URM":[
+            {
+                "year": 2008,
+                "CS":26,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2009,
+                "CS":17,
+                "Non-CS": 1,
+                "Graduated":0,
+                "Stopped Out": 8
+            },
+            {
+                "year": 2010,
+                "CS":12,
+                "Non-CS": 4,
+                "Graduated":1,
+                "Stopped Out": 9
+            },
+            {
+                "year": 2011,
+                "CS":7,
+                "Non-CS": 5,
+                "Graduated":4,
+                "Stopped Out": 10
+            },
+            {
+                "year": 2012,
+                "CS":2,
+                "Non-CS": 3,
+                "Graduated":10,
+                "Stopped Out": 11
+            },
+            {
+                "year": 2013,
+                "CS":1,
+                "Non-CS": 2,
+                "Graduated":12,
+                "Stopped Out": 11
+            },
+            {
+                "year": 2014,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":12,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2015,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":12,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":12,
+                "Stopped Out": 14
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":12,
+                "Stopped Out": 14
+            },
+            {
+                "year": 2018,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":12,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2019,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":12,
+                "Stopped Out": 13
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2008,
+                "CS":124,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2009,
+                "CS":85,
+                "Non-CS": 7,
+                "Graduated":1,
+                "Stopped Out": 31
+            },
+            {
+                "year": 2010,
+                "CS":51,
+                "Non-CS": 12,
+                "Graduated":8,
+                "Stopped Out": 53
+            },
+            {
+                "year": 2011,
+                "CS":23,
+                "Non-CS": 14,
+                "Graduated":29,
+                "Stopped Out": 58
+            },
+            {
+                "year": 2012,
+                "CS":10,
+                "Non-CS": 10,
+                "Graduated":40,
+                "Stopped Out": 64
+            },
+            {
+                "year": 2013,
+                "CS":6,
+                "Non-CS": 6,
+                "Graduated":45,
+                "Stopped Out": 67
+            },
+            {
+                "year": 2014,
+                "CS":5,
+                "Non-CS": 5,
+                "Graduated":50,
+                "Stopped Out": 64
+            },
+            {
+                "year": 2015,
+                "CS":3,
+                "Non-CS": 3,
+                "Graduated":52,
+                "Stopped Out": 66
+            },
+            {
+                "year": 2016,
+                "CS":1,
+                "Non-CS": 2,
+                "Graduated":55,
+                "Stopped Out": 66
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":56,
+                "Stopped Out": 67
+            },
+            {
+                "year": 2018,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":57,
+                "Stopped Out": 67
+            },
+            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":58,
+                "Stopped Out": 66
+            }
+        ]
+    },
+    {
+        "cohort": 2009,
+        "URM":[
+            {
+                "year": 2009,
+                "CS":38,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2010,
+                "CS":28,
+                "Non-CS": 4,
+                "Graduated":0,
+                "Stopped Out": 6
+            },
+            {
+                "year": 2011,
+                "CS":23,
+                "Non-CS": 5,
+                "Graduated":0,
+                "Stopped Out": 10
+            },
+            {
+                "year": 2012,
+                "CS":14,
+                "Non-CS": 9,
+                "Graduated":1,
+                "Stopped Out": 14
+            },
+            {
+                "year": 2013,
+                "CS":10,
+                "Non-CS": 9,
+                "Graduated":3,
+                "Stopped Out": 16
+            },
+            {
+                "year": 2014,
+                "CS":5,
+                "Non-CS": 4,
+                "Graduated":10,
+                "Stopped Out": 19
+            },
+            {
+                "year": 2015,
+                "CS":3,
+                "Non-CS": 2,
+                "Graduated":13,
+                "Stopped Out": 20
+            },
+            {
+                "year": 2016,
+                "CS":2,
+                "Non-CS": 1,
+                "Graduated":14,
+                "Stopped Out": 21
+            },
+            {
+                "year": 2017,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":15,
+                "Stopped Out": 21
+            },
+            {
+                "year": 2018,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":15,
+                "Stopped Out": 21
+            },
+            {
+                "year": 2019,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":15,
+                "Stopped Out": 21
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2009,
+                "CS":133,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2010,
+                "CS":100,
+                "Non-CS": 7,
+                "Graduated":3,
+                "Stopped Out": 23
+            },
+            {
+                "year": 2011,
+                "CS":67,
+                "Non-CS": 14,
+                "Graduated":17,
+                "Stopped Out": 35
+            },
+            {
+                "year": 2012,
+                "CS":41,
+                "Non-CS": 11,
+                "Graduated":34,
+                "Stopped Out": 47
+            },
+            {
+                "year": 2013,
+                "CS":18,
+                "Non-CS": 5,
+                "Graduated":54,
+                "Stopped Out": 56
+            },
+            {
+                "year": 2014,
+                "CS":6,
+                "Non-CS": 4,
+                "Graduated":61,
+                "Stopped Out": 62
+            },
+            {
+                "year": 2015,
+                "CS":5,
+                "Non-CS": 2,
+                "Graduated":62,
+                "Stopped Out": 64
+            },
+            {
+                "year": 2016,
+                "CS":4,
+                "Non-CS": 4,
+                "Graduated":63,
+                "Stopped Out": 62
+            },
+            {
+                "year": 2017,
+                "CS":2,
+                "Non-CS": 3,
+                "Graduated":64,
+                "Stopped Out": 64
+            },
+            {
+                "year": 2018,
+                "CS":1,
+                "Non-CS": 2,
+                "Graduated":65,
+                "Stopped Out": 65
+            },
+            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 3,
+                "Graduated":65,
+                "Stopped Out": 65
+            }
+        ]
+    },
+    {
+        "cohort": 2010,
+        "URM":[
+            {
+                "year": 2010,
+                "CS":31,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2011,
+                "CS":20,
+                "Non-CS": 4,
+                "Graduated":0,
+                "Stopped Out": 7
+            },
+            {
+                "year": 2012,
+                "CS":10,
+                "Non-CS": 5,
+                "Graduated":2,
+                "Stopped Out": 14
+            },
+            {
+                "year": 2013,
+                "CS":5,
+                "Non-CS": 5,
+                "Graduated":8,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2014,
+                "CS":4,
+                "Non-CS": 3,
+                "Graduated":11,
+                "Stopped Out": 13
+            },
+            {
+                "year": 2015,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":14,
+                "Stopped Out": 15
+            },
+            {
+                "year": 2016,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":15,
+                "Stopped Out": 15
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2010,
+                "CS":135,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2011,
+                "CS":93,
+                "Non-CS": 14,
+                "Graduated":3,
+                "Stopped Out": 25
+            },
+            {
+                "year": 2012,
+                "CS":54,
+                "Non-CS": 22,
+                "Graduated":13,
+                "Stopped Out": 46
+            },
+            {
+                "year": 2013,
+                "CS":26,
+                "Non-CS": 17,
+                "Graduated":37,
+                "Stopped Out": 55
+            },
+            {
+                "year": 2014,
+                "CS":12,
+                "Non-CS": 11,
+                "Graduated":53,
+                "Stopped Out": 59
+            },
+            {
+                "year": 2015,
+                "CS":9,
+                "Non-CS": 5,
+                "Graduated":60,
+                "Stopped Out": 61
+            },
+            {
+                "year": 2016,
+                "CS":2,
+                "Non-CS": 6,
+                "Graduated":63,
+                "Stopped Out": 64
+            },
+            {
+                "year": 2017,
+                "CS":0,
+                "Non-CS": 3,
+                "Graduated":65,
+                "Stopped Out": 67
+            },
+            {
+                "year": 2018,
+                "CS":0,
+                "Non-CS": 1,
+                "Graduated":67,
+                "Stopped Out": 67
+            },
+            {
+                "year": 2019,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":68,
+                "Stopped Out": 66
+            }
+        ]
+    },
+    {
+        "cohort": 2011,
+        "URM":[
+            {
+                "year": 2011,
+                "CS":45,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2012,
+                "CS":25,
+                "Non-CS": 7,
+                "Graduated":2,
+                "Stopped Out": 11
+            },
+            {
+                "year": 2013,
+                "CS":15,
+                "Non-CS": 9,
+                "Graduated":3,
+                "Stopped Out": 18
+            },
+            {
+                "year": 2014,
+                "CS":4,
+                "Non-CS": 8,
+                "Graduated":11,
+                "Stopped Out": 22
+            },
+            {
+                "year": 2015,
+                "CS":2,
+                "Non-CS": 7,
+                "Graduated":12 ,
+                "Stopped Out": 24
+            },
+            {
+                "year": 2016,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":15,
+                "Stopped Out": 26
+            },
+            {
+                "year": 2017,
+                "CS":2,
+                "Non-CS": 0,
+                "Graduated":16,
+                "Stopped Out": 27
+            },
+            {
+                "year": 2018,
+                "CS":1,
+                "Non-CS": 1,
+                "Graduated":16,
+                "Stopped Out": 27
+            },
+            {
+                "year": 2019,
+                "CS":1,
+                "Non-CS": 0,
+                "Graduated":16,
+                "Stopped Out": 28
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2011,
+                "CS":155,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2012,
+                "CS":99,
+                "Non-CS": 18,
+                "Graduated":2,
+                "Stopped Out": 36
+            },
+            {
+                "year": 2013,
+                "CS":61,
+                "Non-CS": 19,
+                "Graduated":15,
+                "Stopped Out": 60
+            },
+            {
+                "year": 2014,
+                "CS":36,
+                "Non-CS": 18,
+                "Graduated":33,
+                "Stopped Out": 68
+            },
+            {
+                "year": 2015,
+                "CS":18,
+                "Non-CS": 17,
+                "Graduated":50,
+                "Stopped Out": 70
+            },
+            {
+                "year": 2016,
+                "CS":11,
+                "Non-CS": 10,
+                "Graduated":62,
+                "Stopped Out": 72
+            },
+            {
+                "year": 2017,
+                "CS":6,
+                "Non-CS": 9,
+                "Graduated":68,
+                "Stopped Out": 72
+            },
+            {
+                "year": 2018,
+                "CS":5,
+                "Non-CS": 5,
+                "Graduated":72,
+                "Stopped Out": 73
+            },
+            {
+                "year": 2019,
+                "CS":2,
+                "Non-CS": 3,
+                "Graduated":75,
+                "Stopped Out": 75
+            }
+        ]
+    },
+    {
+        "cohort": 2012,
+        "URM":[
+            {
+                "year": 2012,
+                "CS":46,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2013,
+                "CS":23,
+                "Non-CS": 8,
+                "Graduated":0,
+                "Stopped Out": 15
+            },
+            {
+                "year": 2014,
+                "CS":16,
+                "Non-CS": 10,
+                "Graduated":3,
+                "Stopped Out": 17
+            },
+            {
+                "year": 2015,
+                "CS":10,
+                "Non-CS": 6,
+                "Graduated":11,
+                "Stopped Out": 19
+            },
+            {
+                "year": 2016,
+                "CS":5,
+                "Non-CS": 6,
+                "Graduated":15,
+                "Stopped Out": 20
+            },
+            {
+                "year": 2017,
+                "CS":1,
+                "Non-CS": 3,
+                "Graduated":21,
+                "Stopped Out": 20
+            },
+            {
+                "year": 2018,
+                "CS":0,
+                "Non-CS": 2,
+                "Graduated":23,
+                "Stopped Out": 21
+            },
+            {
+                "year": 2019,
+                "CS":0,
+                "Non-CS": 0,
+                "Graduated":24,
+                "Stopped Out": 22
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2012,
+                "CS":205,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2013,
+                "CS":140,
+                "Non-CS": 19,
+                "Graduated":1,
+                "Stopped Out": 45
+            },
+            {
+                "year": 2014,
+                "CS":80,
+                "Non-CS": 36,
+                "Graduated":17,
+                "Stopped Out": 72
+            },
+            {
+                "year": 2015,
+                "CS":45,
+                "Non-CS": 25,
+                "Graduated":54,
+                "Stopped Out": 81
+            },
+            {
+                "year": 2016,
+                "CS":14,
+                "Non-CS": 11,
+                "Graduated":84,
+                "Stopped Out": 96
+            },
+            {
+                "year": 2017,
+                "CS":7,
+                "Non-CS": 8,
+                "Graduated":93,
+                "Stopped Out": 97
+            },
+            {
+                "year": 2018,
+                "CS":6,
+                "Non-CS": 3,
+                "Graduated":97,
+                "Stopped Out": 99
+            },
+            {
+                "year": 2019,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":101,
+                "Stopped Out": 100
+            }
+        ]
+    },
+    {
+        "cohort": 2013,
+        "URM":[
+            {
+                "year": 2013,
+                "CS":80,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2014,
+                "CS":59,
+                "Non-CS": 10,
+                "Graduated":1,
+                "Stopped Out": 10
+            },
+            {
+                "year": 2015,
+                "CS":40,
+                "Non-CS": 19,
+                "Graduated":5,
+                "Stopped Out": 16
+            },
+            {
+                "year": 2016,
+                "CS":19,
+                "Non-CS": 15,
+                "Graduated":24,
+                "Stopped Out": 22
+            },
+            {
+                "year": 2017,
+                "CS":12,
+                "Non-CS": 9,
+                "Graduated":35,
+                "Stopped Out": 24
+            },
+            {
+                "year": 2018,
+                "CS":5,
+                "Non-CS": 4,
+                "Graduated":42,
+                "Stopped Out": 29
+            },
+            {
+                "year": 2019,
+                "CS":3,
+                "Non-CS": 3,
+                "Graduated":43,
+                "Stopped Out": 31
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2013,
+                "CS":248,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2014,
+                "CS":170,
+                "Non-CS": 22,
+                "Graduated":2,
+                "Stopped Out": 54
+            },
+            {
+                "year": 2015,
+                "CS":101,
+                "Non-CS": 33,
+                "Graduated":19,
+                "Stopped Out": 95
+            },
+            {
+                "year": 2016,
+                "CS":63,
+                "Non-CS": 15,
+                "Graduated":56,
+                "Stopped Out": 114
+            },
+            {
+                "year": 2017,
+                "CS":27,
+                "Non-CS": 11,
+                "Graduated":90,
+                "Stopped Out": 120
+            },
+            {
+                "year": 2018,
+                "CS":7,
+                "Non-CS": 5,
+                "Graduated":112,
+                "Stopped Out": 124
+            },
+            {
+                "year": 2019,
+                "CS":2,
+                "Non-CS": 2,
+                "Graduated":119,
+                "Stopped Out": 125
+            }
+        ]
+    },
+    {
+        "cohort": 2014,
+        "URM":[
+            {
+                "year": 2014,
+                "CS":105,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2015,
+                "CS":69,
+                "Non-CS": 18,
+                "Graduated":1,
+                "Stopped Out": 17
+            },
+            {
+                "year": 2016,
+                "CS":43,
+                "Non-CS": 23,
+                "Graduated":6,
+                "Stopped Out": 33
+            },
+            {
+                "year": 2017,
+                "CS":29,
+                "Non-CS": 16,
+                "Graduated":19,
+                "Stopped Out": 41
+            },
+            {
+                "year": 2018,
+                "CS":15,
+                "Non-CS": 9,
+                "Graduated":36,
+                "Stopped Out": 45
+            },
+            {
+                "year": 2019,
+                "CS":8,
+                "Non-CS": 5,
+                "Graduated":44,
+                "Stopped Out": 48
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2014,
+                "CS":263,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2015,
+                "CS":160,
+                "Non-CS": 27,
+                "Graduated":2,
+                "Stopped Out": 74
+            },
+            {
+                "year": 2016,
+                "CS":97,
+                "Non-CS": 28,
+                "Graduated":23,
+                "Stopped Out": 115
+            },
+            {
+                "year": 2017,
+                "CS":66,
+                "Non-CS": 25,
+                "Graduated":44,
+                "Stopped Out": 128
+            },
+            {
+                "year": 2018,
+                "CS":26,
+                "Non-CS": 18,
+                "Graduated":81,
+                "Stopped Out": 138
+            },
+            {
+                "year": 2019,
+                "CS":13,
+                "Non-CS": 0,
+                "Graduated":99,
+                "Stopped Out": 143
+            }
+        ]
+    },
+    {
+        "cohort": 2015,
+        "URM":[
+            {
+                "year": 2015,
+                "CS":85,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2016,
+                "CS":46,
+                "Non-CS": 12,
+                "Graduated":2,
+                "Stopped Out": 25
+            },
+            {
+                "year": 2017,
+                "CS":25,
+                "Non-CS": 16,
+                "Graduated":6,
+                "Stopped Out": 38
+            },
+            {
+                "year": 2018,
+                "CS":14,
+                "Non-CS": 16,
+                "Graduated":16,
+                "Stopped Out": 39
+            },
+            {
+                "year": 2019,
+                "CS":1,
+                "Non-CS": 6,
+                "Graduated":35,
+                "Stopped Out": 43
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2015,
+                "CS":276,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2016,
+                "CS":175,
+                "Non-CS": 31,
+                "Graduated":2,
+                "Stopped Out": 68
+            },
+            {
+                "year": 2017,
+                "CS":106,
+                "Non-CS": 49,
+                "Graduated":21,
+                "Stopped Out": 100
+            },
+            {
+                "year": 2018,
+                "CS":70,
+                "Non-CS": 31,
+                "Graduated":69,
+                "Stopped Out": 106
+            },
+            {
+                "year": 2019,
+                "CS":23,
+                "Non-CS": 22,
+                "Graduated":114,
+                "Stopped Out": 117
+            }
+        ]
+    },
+    {
+        "cohort": 2016,
+        "URM":[
+            {
+                "year": 2016,
+                "CS":79,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2017,
+                "CS":49,
+                "Non-CS": 16,
+                "Graduated":0,
+                "Stopped Out": 14
+            },
+            {
+                "year": 2018,
+                "CS":34,
+                "Non-CS": 16,
+                "Graduated":6,
+                "Stopped Out": 23
+            },
+            {
+                "year": 2019,
+                "CS":21,
+                "Non-CS": 16,
+                "Graduated":16,
+                "Stopped Out": 26
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2016,
+                "CS":234,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2017,
+                "CS":164,
+                "Non-CS": 22,
+                "Graduated":4,
+                "Stopped Out": 44
+            },
+            {
+                "year": 2018,
+                "CS":114,
+                "Non-CS": 25,
+                "Graduated":30,
+                "Stopped Out": 65
+            },
+            {
+                "year": 2019,
+                "CS":62,
+                "Non-CS": 24,
+                "Graduated":78,
+                "Stopped Out": 70
+            }
+        ]
+    },
+    {
+        "cohort": 2017,
+        "URM":[
+            {
+                "year": 2017,
+                "CS":115,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2018,
+                "CS":84,
+                "Non-CS": 9,
+                "Graduated":0,
+                "Stopped Out": 22
+            },
+            {
+                "year": 2019,
+                "CS":59,
+                "Non-CS": 19,
+                "Graduated":5,
+                "Stopped Out": 35
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2017,
+                "CS":267,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2018,
+                "CS":199,
+                "Non-CS": 24,
+                "Graduated":3,
+                "Stopped Out": 41
+            },
+            {
+                "year": 2019,
+                "CS":119,
+                "Non-CS": 34,
+                "Graduated":40,
+                "Stopped Out": 74
+            }
+        ]
+    },
+    {
+        "cohort": 2018,
+        "URM":[
+            {
+                "year": 2018,
+                "CS":93,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2019,
+                "CS":63,
+                "Non-CS": 11,
+                "Graduated":1,
+                "Stopped Out": 18
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2018,
+                "CS":262,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            },
+            {
+                "year": 2019,
+                "CS":172,
+                "Non-CS": 27,
+                "Graduated":8,
+                "Stopped Out": 55
+            }
+        ]
+    },
+    {
+        "cohort": 2019,
+        "URM":[
+            {
+                "year": 2019,
+                "CS":96,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            }
+        ],
+        "NURM":[
+            {
+                "year": 2019,
+                "CS":219,
+                "Non-CS": 0,
+                "Graduated":0,
+                "Stopped Out": 0
+            }
+        ]
+    }
+]
