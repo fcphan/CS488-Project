@@ -1,0 +1,103 @@
+//FINISHED QUERIES
+
+/* For all classes, how many students earned a C or higher in 2016? */
+db.gradesByClass.aggregate([
+{$unwind: "$major"},            //unwinds major array
+{$unwind: "$non-major"},        //unwinds non-major array
+{$match:                        //filters rows for grades C and up
+    {year: 2016,
+    "$expr": {"$eq": ["$major.grade", "$non-major.grade"]},
+    "major.grade": {$in:["A", "A-", "B", "B-", "B+", "C", "C+"]}}},
+{$addFields:        //Add a sum field that totals students
+    {total: {$add: ["$major.male","$major.female","$major.nb",
+    "$non-major.male","$non-major.female","$non-major.nb"]}}
+},
+{$group:            //aggregate the total column
+    {_id: null,
+    "total students":{$sum:"$total"}}
+},
+{$project:
+    {_id: 0,
+    "total students":1}}      //only show total
+])
+
+/* What percentage of students earned a C or higher in CS 162, CS 163, and CS 202, broken down by gender? */
+db.gradesByClass.aggregate([
+{$unwind: "$major"},            //unwinds major array
+{$unwind: "$non-major"},        //unwinds non-major array
+{$match:                        //filters rows for grades C and up
+    {class: {$in:["CS162","CS163", "CS202"]},
+    "$expr": {"$eq": ["$major.grade", "$non-major.grade"]},
+    "major.grade": {$in:["A", "A-", "B", "B-", "B+", "C", "C+"]}}},
+{$addFields:
+    {total: {$add: ["$major.male","$major.female","$major.nb",
+    "$non-major.male","$non-major.female","$non-major.nb"]},      //add field for total students
+    total_male: {$add:["$major.male", "$non-major.male"]},        //add field for total male students
+    total_female: {$add:["$major.female", "$non-major.female"]},  //add field for total female students
+    total_nb: {$add:["$major.nb", "$non-major.nb"]}}              //add field for toal nb students
+},
+{$group:        //total up the newly made columns
+    {_id: null,
+    grand_total: {$sum:"$total"},
+    male:{$sum:"$total_male"},
+    female:{$sum:"$total_female"},
+    nb:{$sum:"$total_nb"}}
+},
+{$project:      //display unweighted average
+    {_id: 0,
+    Male: {$round:[{$multiply:[{$divide:["$male","$grand_total"]},100]},2]},
+    Female: {$round:[{$multiply:[{$divide:["$female","$grand_total"]},100]},2]},
+    "Non-binary": {$round:[{$multiply:[{$divide:["$nb","$grand_total"]},100]},2]}}
+}
+])
+
+/* For cohort years between 2005-2006 and cohort year 2013-2014,
+   what percentage of students graduated within 6 years? */
+db.persistanceInCS.aggregate([
+{$match:    //filter a 6 year span starting at 2005
+    {cohort: {$in:[2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013]}}
+},
+{$addFields:
+    {NURM_total: {$arrayElemAt: ["$NURM.CS", 0]},           //add field for total NURM
+    URM_total: {$arrayElemAt: ["$URM.CS", 0]},
+    NURM_graduated: {$arrayElemAt: ["$NURM.Graduated", 5]},
+    URM_graduated: {$arrayElemAt: ["$URM.Graduated", 5]}}
+},
+{$group:
+    {_id: null,
+    total_N_grads:{$sum:"$NURM_graduated"},
+    total_U_grads:{$sum:"$URM_graduated"},
+    total_N_students:{$sum:"$NURM_total"},
+    total_U_students:{$sum:"$URM_total"}}
+},
+{$project:
+    {_id:0,
+    "6 year grads":{$round:[{$multiply:[{$divide:[{$add:["$total_N_grads","$total_U_grads"]},
+    {$add:["$total_N_students","$total_U_students"]}]},100]},2]}}
+}
+])
+
+/* For cohort year 2012-2013 what percentage of students had changed majors
+   or stopped out by 2016-2017, broken down by URM and non URM? */
+db.persistanceInCS.aggregate([
+{$match:
+    {cohort:2012}
+},
+{$addFields:
+    {total_students: {$add: [{$arrayElemAt: ["$NURM.CS", 0]}, {$arrayElemAt: ["$URM.CS", 0]}]}}
+},
+{$unwind: "$NURM"},
+{$unwind: "$URM"},
+{$match:
+    {"NURM.year": 2016, "URM.year": 2016}
+},
+{$addFields:
+    {total_changed_dropped: {$add: ["$NURM.Non-CS", "$URM.Non-CS", "$NURM.Stopped Out", "$URM.Stopped Out"]}}
+},
+{$project:
+    {_id:0,
+    cohort:1,
+    "Percentage by 2016":
+    {$round:[{$multiply:[{$divide:["$total_changed_dropped","$total_students"]},100]},2]}}
+}
+])
